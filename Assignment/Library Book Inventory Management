@@ -60,4 +60,4 @@ while True:
         print("\nExiting")
         break
     else:
-        print("\nInvalid choice! Please enter a number between 1 and 6."
+        print("\nInvalid choice! Please enter a number between 1 and 6.")
