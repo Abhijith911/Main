@@ -5,7 +5,7 @@ like artificial intelligence, robotics, or the Internet of Things (IoT), and con
 growth of the electronics and computer engineering field.
 
 # EDUCATIONAL QUALIFICATION
-### Kerala Technical University  
+### Under Graduation  
    * B.Tech in Electronics and Computer Engineering  
     Saintgits College of Engineering(Autonomous)  
     Kottayam, Kerala   
@@ -17,19 +17,20 @@ growth of the electronics and computer engineering field.
       Kottayam
       2021-2023
 
-###  SSLC  
-  * NSS Higher Secondary School
-    Chingavanam
-    2020-2021
 
 ## CERTIFICATE COURSES
 * ## Coursera
    * [Programming for Everybody (Getting Started with Python)] ([https://coursera.org/verify/H4AQF9M0D4IS])
+   *  ## NPTEL
+   * [Introduction to Machine Learning] 
      
     
 ## Workshops And Seminars
 *  Attended Hands on workshop on Arduino Board - By Saintgits College Of Engineering
 *  Hands-on workshop on the Vega processor - By C-Dac and Saintgits College of Engineering
+*  Attended Semiconductor Tech Conclave 2025, jointly organized by the IEEE Solid-State Circuits Society (SSCS) Saintgits Student Chapter and the IEEE RFiD Council Kerala Chapter, in association with the Saintgits Center of Excellence in VLSI.
+
+ 
  ## Connect Me @
 *  [Linkedin] ([http://www.linkedin.com/in/abhijithsanthosh2005])
 *  [Gmail] ([abhijithsanthosh824@gmail.com])
