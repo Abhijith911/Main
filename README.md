@@ -22,13 +22,16 @@ growth of the electronics and computer engineering field.
 * ## Coursera
    * [Programming for Everybody (Getting Started with Python)] ([https://coursera.org/verify/H4AQF9M0D4IS])
 * ## NPTEL
-   * [Introduction to Machine Learning][IMG_20250519_183944](https://github.com/user-attachments/assets/a4c0754b-2896-499a-ba6b-4ac472c8c4bc)
+   * [Introduction to Machine Learning]  [([IMG_20250519_183944](https://github.com/user-attachments/assets/a4c0754b-2896-499a-ba6b-4ac472c8c4bc]))]
      
     
 ## Workshops And Seminars
 *  Attended Hands on workshop on Arduino Board - By Saintgits College Of Engineering
-*  Hands-on workshop on the Vega processor - By C-Dac and Saintgits College of Engineering[Screenshot_2024-11-22-12-22-10-04_e2d5b3f32b79de1d45acd1fad96fbb0f](https://github.com/user-attachments/assets/938f8b70-45e7-451c-8b2b-d2adf0ea528b)
+*  Hands-on workshop on the Vega processor - By C-Dac and Saintgits College of Engineering  [([Screenshot_2024-11-22-12-22-10-04_e2d5b3f32b79de1d45acd1fad96fbb0f](https://github.com/user-attachments/assets/938f8b70-45e7-451c-8b2b-d2adf0ea528b))]
 *  Attended Semiconductor Tech Conclave 2025, jointly organized by the IEEE Solid-State Circuits Society (SSCS) Saintgits Student Chapter and the IEEE RFiD Council Kerala Chapter, in association with the Saintgits Center of Excellence in VLSI.
+
+### INTERNSHIPS
+* 2 weeks internship on embedded system and rasberry pi at KELTRON knowledge centre Payalaym, Trivandrum.
 
  
  ## Connect Me @
