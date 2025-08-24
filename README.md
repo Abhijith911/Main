@@ -59,11 +59,7 @@ I'm a 3rd-year B.Tech student in Electronics & Computer Engineering at the **Sai
     * *Description:* A foundational digital logic project designed in Verilog and simulated using Intel Quartus to demonstrate arithmetic circuit principles.
     * *Tech Used:* `Verilog`, `Intel Quartus`
 
-### 
 
-).
-    2. Fill in your project's details.
--->
 ---
 
 ### 💼 Experience & Learning
