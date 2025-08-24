@@ -2,6 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=220&section=header&text=Hi%20there%F0%9F%91%8B!%20I'm%20Abhijith&fontSize=70&fontColor=FFFFFF" />
 </p>
 
+
 # Abhijith Santhosh | Electronics & Computer Engineer
 
 > An Electronics & Computer Engineering student passionate about building bridges between hardware and software.
@@ -15,39 +16,13 @@ I'm a 3rd-year B.Tech student in Electronics & Computer Engineering at the **Sai
 
 ### 🛠️ My Tech Stack
 
-<table>
-  <tr>
-    <td valign="top" width="33%">
-      <strong>Languages</strong>
-      <table>
-        <tr><td width="120px">Python</td><td><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></td></tr>
-        <tr><td>C</td><td><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"></td></tr>
-        <tr><td>Verilog</td><td><img height="20" ></td></tr>
-      </table>
-    </td>
-    <td valign="top" width="33%">
-      <strong>Hardware & Embedded</strong>
-      <table>
-        <tr><td width="150px">Arduino</td><td><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"></td></tr>
-        <tr><td>ESP32 / ESP8266</td><td><img height="20" src="https://avatars.githubusercontent.com/u/13283852?s=40&v=4"></td></tr>
-        <tr><td>Intel Quartus</td><td><img height="20" ></td></tr>
-        <tr><td>Digital Logic Design</td><td></td></tr>
-        <tr><td>Internet of Things (IoT)</td><td></td></tr>
-      </table>
-    </td>
-    <td valign="top" width="33%">
-      <strong>Software & Tools</strong>
-      <table>
-        <tr><td width="180px">NumPy & Pandas</td><td><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"> <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"></td></tr>
-        <tr><td>Scikit-learn</td><td><img height="20" ></td></tr>
-        <tr><td>PyTorch <i>(Learning)</i></td><td><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"></td></tr>
-        <tr><td>Git & GitHub</td><td><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></td></tr>
-        <tr><td>VS Code</td><td><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></td></tr>
-        <tr><td>Data Structures & Algorithms</td><td></td></tr>
-      </table>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,c,arduino,raspberrypi,git,github,vscode,html,css,js,react,nodejs,mongodb,mysql,docker,linux&perline=8" />
+  </a>
+</p>
+
+**Core Knowledge:** `Verilog`, `Digital Logic Design`, `Intel Quartus`, `Internet of Things (IoT)`, `NumPy`, `Pandas`, `Scikit-learn`, `PyTorch`
 
 ---
 
@@ -86,5 +61,5 @@ I'm a 3rd-year B.Tech student in Electronics & Computer Engineering at the **Sai
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijith911&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-[linkedin]: [[http://www.linkedin.com/in/abhijithsanthosh2005]]
-[email]: mailto:[abhijithsanthosh824@gmail.com]
+[linkedin]: http://www.linkedin.com/in/abhijithsanthosh2005
+[email]: mailto:abhijithsanthosh824@gmail.com
