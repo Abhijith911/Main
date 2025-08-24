@@ -25,7 +25,7 @@ I'm a 3rd-year B.Tech student in Electronics & Computer Engineering at the **Sai
       <br>
       C <img align="center" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
       <br>
-      Verilog <img align="center" height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Verilog-logo.svg/1200px-Verilog-logo.svg.png">
+      Verilog <img align="center" height="20">
     </td>
     <td valign="top" width="33%">
       <strong>Hardware & Embedded</strong>
@@ -34,7 +34,7 @@ I'm a 3rd-year B.Tech student in Electronics & Computer Engineering at the **Sai
       <br>
       ESP32 / ESP8266 <img align="center" height="20" src="https://avatars.githubusercontent.com/u/13283852?s=40&v=4">
       <br>
-      Intel Quartus <img align="center" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intel/intel-original.svg">
+      Intel Quartus <img align="center" height="20" >
       <br>
       Digital Logic Design
       <br>
@@ -45,7 +45,7 @@ I'm a 3rd-year B.Tech student in Electronics & Computer Engineering at the **Sai
       <br><br>
       NumPy & Pandas <img align="center" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"> <img align="center" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
       <br>
-      Scikit-learn <img align="center" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg">
+      Scikit-learn <img align="center" height="20" >
       <br>
       PyTorch <i>(Learning)</i> <img align="center" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg">
       <br>
