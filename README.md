@@ -16,15 +16,47 @@ I'm a 3rd-year B.Tech student in Electronics & Computer Engineering at the **Sai
 
 ### 🛠️ My Tech Stack
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,arduino,raspberrypi,git,github,vscode,html,css,js,react,nodejs,mongodb,mysql,docker,linux&perline=8" />
-  </a>
-</p>
-
-**Core Knowledge:** `Verilog`, `Digital Logic Design`, `Intel Quartus`, `Internet of Things (IoT)`, `NumPy`, `Pandas`, `Scikit-learn`, `PyTorch`
-
----
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <strong>Languages</strong>
+      <br><br>
+      Python <img align="center" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+      <br>
+      C <img align="center" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+      <br>
+      Verilog <img align="center" height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Verilog-logo.svg/1200px-Verilog-logo.svg.png">
+    </td>
+    <td valign="top" width="33%">
+      <strong>Hardware & Embedded</strong>
+      <br><br>
+      Arduino <img align="center" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
+      <br>
+      ESP32 / ESP8266 <img align="center" height="20" src="https://avatars.githubusercontent.com/u/13283852?s=40&v=4">
+      <br>
+      Intel Quartus <img align="center" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intel/intel-original.svg">
+      <br>
+      Digital Logic Design
+      <br>
+      Internet of Things (IoT)
+    </td>
+    <td valign="top" width="33%">
+      <strong>Software & Tools</strong>
+      <br><br>
+      NumPy & Pandas <img align="center" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"> <img align="center" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
+      <br>
+      Scikit-learn <img align="center" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg">
+      <br>
+      PyTorch <i>(Learning)</i> <img align="center" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg">
+      <br>
+      Git & GitHub <img align="center" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> <img align="center" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+      <br>
+      VS Code <img align="center" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+      <br>
+      Data Structures & Algorithms
+    </td>
+  </tr>
+</table>
 
 ## 💡 Key Projects
 
