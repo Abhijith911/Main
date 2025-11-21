@@ -20,59 +20,98 @@ I'm a 3rd-year B.Tech student at **Saintgits College of Engineering, Kottayam**,
 
 ---
 
-## 🛠️ Tech Stack
+## 👨‍💻 About Me
 
-### **Languages**
-- Python <img height="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-- C <img height="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-- Verilog HDL
+- 🎓 3rd-year Electronics & Computer Engineering student at Saintgits College of Engineering  
+- 🔌 Passionate about Embedded Systems, IoT, and Digital Design  
+- 🧠 Interested in combining AI + Embedded systems  
+- 💡 I love working on real hardware, sensors, and microcontrollers  
+- 🚀 Always building, learning, and experimenting with new tech  
 
-### **Hardware & Embedded Systems**
-- Arduino <img height="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
-- ESP32 / ESP8266  
-- Intel Quartus (FPGA)  
-- Digital Logic Design  
-- Internet of Things (IoT)
+---
 
-### **Software & Tools**
-- NumPy <img height="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
-- Pandas <img height="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
-- Git & GitHub <img height="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> <img height="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-- VS Code <img height="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-- Scikit-learn  
-- PyTorch *(Learning)*
+## 🔥 Featured Projects
+
+<a href="https://github.com/Abhijith911/Abhijith911/tree/main/major-projects/smart-energy-management-system">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhijith911&repo=smart-energy-management-system&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/Abhijith911/Abhijith911/tree/main/major-projects/32bit-ripple-carry-adder">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhijith911&repo=32bit-ripple-carry-adder&theme=tokyonight" />
+</a>
+
+---
+
+## 🧰 Tech Stack
+
+<table>
+  <tr>
+    <td align="center" width="200">
+      <strong>Languages</strong><br><br>
+      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /><br>
+      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /><br>
+      <span>Verilog HDL</span>
+    </td>
+
+    <td align="center" width="200">
+      <strong>Embedded & IoT</strong><br><br>
+      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" /><br>
+      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" /><br>
+      <span>ESP32 / ESP8266</span>
+    </td>
+
+    <td align="center" width="200">
+      <strong>FPGA & Digital Design</strong><br><br>
+      <span>Intel Quartus</span><br>
+      <span>RTL Design</span><br>
+      <span>Timing & Resource Analysis</span>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="200">
+      <strong>IoT & Networking</strong><br><br>
+      <span>MQTT</span><br>
+      <span>Adafruit IO</span><br>
+      <span>Local MQTT Brokers</span>
+    </td>
+
+    <td align="center" width="200">
+      <strong>Data & Analysis</strong><br><br>
+      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" /><br>
+      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" /><br>
+      <span>EDA, DSP Basics</span>
+    </td>
+
+    <td align="center" width="200">
+      <strong>Tools & Workflow</strong><br><br>
+      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /><br>
+      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /><br>
+      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🚀 Major Projects
 
 ### 🔹 **Edge-IoT Smart Energy Management System**  
-📌 *Raspberry Pi + ESP32 + MQTT + Adafruit IO*  
-A multi-node IoT system for real-time voltage, current, power & energy monitoring with anomaly detection and automatic relay control.  
+📌 Raspberry Pi + ESP32 + MQTT + Adafruit IO  
 👉 **[View Project](https://github.com/Abhijith911/Abhijith911/tree/main/major-projects/smart-energy-management-system)**
 
----
-
 ### 🔹 **32-bit Ripple Carry Adder (Verilog HDL)**  
-📌 *Digital Design + Simulation on Intel Quartus*  
-Designed a complete 32-bit RCA using full-adder modules, testbench verification, waveform analysis, and FPGA resource estimation.  
+📌 Designed, simulated in Quartus, and waveform-verified  
 👉 **[View Project](https://github.com/Abhijith911/Abhijith911/tree/main/major-projects/32bit-ripple-carry-adder)**
 
 ---
 
 ## 📘 Simple Projects
 
-### 🔸 Ultrasonic Water Level Indicator  
-Arduino + HC-SR04 + RGB LEDs to measure tank level and indicate status using color zones.  
-👉 **simple-projects/ultrasonic-water-level-indicator**
-
-### 🔸 Calculator (Python)  
-Basic Python-based scientific calculator with user-defined operations.  
-👉 **simple-projects/Calculator**
-
-### 🔸 IPL Data Analysis (Python)  
-Data cleaning & analysis of IPL dataset using Pandas.  
-👉 **simple-projects/IPL Data Analysis**
+- Ultrasonic Water Level Indicator  
+- Calculator (Python)  
+- IPL Data Analysis  
+👉 All inside **simple-projects/** folder.
 
 ---
 
@@ -85,13 +124,11 @@ Focused on embedded systems fundamentals, microcontroller programming, and hands
 
 ## 🎓 Certifications
 
-- **Python for Everybody** — Coursera  
-  🔗 https://coursera.org/verify/H4AQF9M0D4IS  
-- **Introduction to Machine Learning** — NPTEL  
-  🔗 Live Certificate Link  
-- **Vega Processor Workshop** — C-DAC  
-- **Arduino Hands-On Workshop**  
-- **Semiconductor Tech Conclave 2025** — IEEE SSCS
+- Python for Everybody — Coursera  
+- Introduction to Machine Learning — NPTEL  
+- Vega Processor Workshop — C-DAC  
+- Arduino Hands-On Workshop  
+- Semiconductor Tech Conclave 2025 — IEEE SSCS
 
 ---
 
@@ -102,3 +139,6 @@ Focused on embedded systems fundamentals, microcontroller programming, and hands
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijith911&layout=compact&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=120&section=footer"/>
+</p>
