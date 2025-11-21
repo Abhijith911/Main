@@ -100,9 +100,18 @@ I'm a 3rd-year B.Tech student at **Saintgits College of Engineering, Kottayam**,
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhijith911&show_icons=true&theme=tokyonight"
-       style="width:45%; height:220px; object-fit:contain; display:inline-block; border-radius:6px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijith911&layout=compact&theme=tokyonight"
-       style="width:45%; height:220px; object-fit:contain; display:inline-block; border-radius:6px;" />
-</p>
+## 📊 GitHub Stats
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=Abhijith911&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10"
+           style="width:100%; height:230px;" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijith911&layout=compact&theme=tokyonight&hide_border=false&border_radius=10"
+           style="width:100%; height:230px;" />
+    </td>
+  </tr>
+</table>
+
