@@ -2,7 +2,6 @@
 
 A simple Arduino-based system that measures the water level inside a tank using an **HC-SR04 ultrasonic sensor** and displays the level through a **WS2812B RGB LED strip**.  
 This mini-project provides a visual and non-contact method for monitoring tank levels.  
-:contentReference[oaicite:1]{index=1}
 
 ---
 
@@ -16,7 +15,6 @@ This mini-project provides a visual and non-contact method for monitoring tank l
   - **Yellow** → Medium level  
   - **Green** → Full tank  
 - Real-time level updates  
-:contentReference[oaicite:2]{index=2}
 
 ---
 
@@ -28,7 +26,6 @@ This mini-project provides a visual and non-contact method for monitoring tank l
 - 330Ω resistor (signal stability)  
 - Jumper wires  
 - 5V USB/Power supply  
-:contentReference[oaicite:3]{index=3}
 
 ---
 
@@ -42,7 +39,6 @@ This mini-project provides a visual and non-contact method for monitoring tank l
    - Middle LEDs → **Yellow** (Medium Level)  
    - Top LEDs → **Green** (Full Tank)  
 5. Display updates continuously.  
-:contentReference[oaicite:4]{index=4}
 
 ---
 
