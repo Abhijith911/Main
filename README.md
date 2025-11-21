@@ -107,7 +107,7 @@ I'm a 3rd-year B.Tech student at **Saintgits College of Engineering, Kottayam**,
            style="width:100%; height:230px;" />
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijith911&layout=compact&theme=tokyonight&hide_border=false&border_radius=10"
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijith911&layout=compact&theme=tokyonight&hide_border=false&border_radius=10&langs+count=10"
            style="width:100%; height:230px;" />
     </td>
   </tr>
