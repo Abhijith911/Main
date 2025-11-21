@@ -74,12 +74,13 @@ I'm a 3rd-year B.Tech student at **Saintgits College of Engineering, Kottayam**,
 
 ### 🔹 **Edge-IoT Smart Energy Management System**  
 📌 Raspberry Pi + ESP32 + MQTT + Adafruit IO  
-👉 **[View Project](https://github.com/Abhijith911/Abhijith911/tree/main/major-projects/smart-energy-management-system)**
+👉 **[View Project](https://github.com/Abhijith911/smart-energy-management-system)**
+
+---
 
 ### 🔹 **32-bit Ripple Carry Adder (Verilog HDL)**  
 📌 Designed, simulated in Quartus, and waveform-verified  
-👉 **[View Project](https://github.com/Abhijith911/Abhijith911/tree/main/major-projects/32bit-ripple-carry-adder)**
-
+👉 **[View Project](https://github.com/Abhijith911/32bit-ripple-carry-adder)**
 ---
 
 ## 📘 Simple Projects
