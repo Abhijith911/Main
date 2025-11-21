@@ -96,9 +96,7 @@ I'm a 3rd-year B.Tech student at **Saintgits College of Engineering, Kottayam**,
 ### Embedded Systems Intern — KELTRON
 2- week Inters on embedded fundamentals, microcontroller programming.
 
-
-
-## 📊 GitHub Stats
+---
 
 ## 📊 GitHub Stats
 
