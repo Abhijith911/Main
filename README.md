@@ -81,11 +81,13 @@ I'm a 3rd-year B.Tech student at **Saintgits College of Engineering, Kottayam**,
 ### 🔹 **32-bit Ripple Carry Adder (Verilog HDL)**  
 📌 Designed, simulated in Quartus, and waveform-verified  
 👉 **[View Project](https://github.com/Abhijith911/32bit-ripple-carry-adder)**
+
 ---
 
 ## 📘 Simple Projects
 
 - Ultrasonic Water Level Indicator  
+  👉 **[View Project](https://github.com/Abhijith911/ultrasonic-water-level-indicator)**
 - Calculator (Python)  
 - IPL Data Analysis  
 👉 All inside **simple-projects/** folder.
