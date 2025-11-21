@@ -1,22 +1,24 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=220&section=header&text=Hi%20there%F0%9F%91%8B!%20I'm%20Abhijith&fontSize=70&fontColor=FFFFFF" />
-</p>
-
-# Abhijith Santhosh  
-### Electronics & Computer Engineer
+<h2 align="center">👋 Hi, I'm Abhijith Santhosh</h2>
+<p align="center"><i>Electronics & Computer Engineer</i></p>
 
 > A passionate Electronics & Computer Engineering student building real-world solutions at the intersection of **hardware + software + embedded systems**.
 
 I'm a 3rd-year B.Tech student at **Saintgits College of Engineering, Kottayam**, specializing in embedded systems, digital design, and IoT-based applications.
 
-<p>
-<a href="http://www.linkedin.com/in/abhijithsanthosh2005">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:xxx@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+---
+
+## 📬 Connect With Me
+
+<p align="left">
+  <a href="mailto:xxx@gmail.com">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" height="32" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/abhijithsanthosh2005">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="32" />
+  </a>
 </p>
+
 
 ---
 
@@ -30,67 +32,41 @@ I'm a 3rd-year B.Tech student at **Saintgits College of Engineering, Kottayam**,
 
 ---
 
-## 🔥 Featured Projects
+## 🧰 Tech Stack  
 
-<a href="https://github.com/Abhijith911/Abhijith911/tree/main/major-projects/smart-energy-management-system">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhijith911&repo=smart-energy-management-system&theme=tokyonight" />
-</a>
+#### 💬 Programming Languages  
+<p>  
+    <img src="https://img.shields.io/badge/C-00599C.svg?style=for-the-badge&logo=c&logoColor=white" /><br>  
+    <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" /> <br>   
+    <img src="https://img.shields.io/badge/Verilog%20HDL-333333.svg?style=for-the-badge&logo=vercel&logoColor=white" /> <br>   
+</p>  
 
-<a href="https://github.com/Abhijith911/Abhijith911/tree/main/major-projects/32bit-ripple-carry-adder">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhijith911&repo=32bit-ripple-carry-adder&theme=tokyonight" />
-</a>
+#### ⚡ Embedded / IoT / Hardware  
+<p>  
+    <img src="https://img.shields.io/badge/Arduino-00979D.svg?style=for-the-badge&logo=arduino&logoColor=white" /> <br>   
+    <img src="https://img.shields.io/badge/ESP32%20%2F%20ESP8266-E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white" /><br>    
+    <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846.svg?style=for-the-badge&logo=raspberrypi&logoColor=white" />  <br>  
+    <img src="https://img.shields.io/badge/Adafruit%20IO-000000.svg?style=for-the-badge&logo=adafruit&logoColor=white" />  
+    <img src="https://img.shields.io/badge/MQTT-660066.svg?style=for-the-badge&logo=HiveMQ&logoColor=white" />  <br>  
+    <img src="https://img.shields.io/badge/Intel%20Quartus%20Prime-0071C5.svg?style=for-the-badge&logo=intel&logoColor=white" /> <br>   
+    <img src="https://img.shields.io/badge/ModelSim-0A0A0A.svg?style=for-the-badge&logo=siemens&logoColor=white" /><br>    
+    <img src="https://img.shields.io/badge/MATLAB-FF7F2A.svg?style=for-the-badge&logo=mathworks&logoColor=white" /><br>    
+</p>  
 
----
+#### 📊 Data & Signal Processing  
+<p>  
+    <img src="https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />  <br>  
+    <img src="https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />  <br>  
+    <img src="https://img.shields.io/badge/MATLAB%20(DSP)-E16737.svg?style=for-the-badge&logo=mathworks&logoColor=white" />  <br>  
+</p>  
 
-## 🧰 Tech Stack
-
-<table>
-  <tr>
-    <td align="center" width="200">
-      <strong>Languages</strong><br><br>
-      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /><br>
-      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /><br>
-      <span>Verilog HDL</span>
-    </td>
-
-    <td align="center" width="200">
-      <strong>Embedded & IoT</strong><br><br>
-      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" /><br>
-      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" /><br>
-      <span>ESP32 / ESP8266</span>
-    </td>
-
-    <td align="center" width="200">
-      <strong>FPGA & Digital Design</strong><br><br>
-      <span>Intel Quartus</span><br>
-      <span>RTL Design</span><br>
-      <span>Timing & Resource Analysis</span>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="200">
-      <strong>IoT & Networking</strong><br><br>
-      <span>MQTT</span><br>
-      <span>Adafruit IO</span><br>
-      <span>Local MQTT Brokers</span>
-    </td>
-
-    <td align="center" width="200">
-      <strong>Data & Analysis</strong><br><br>
-      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" /><br>
-      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" /><br>
-      <span>EDA, DSP Basics</span>
-    </td>
-
-    <td align="center" width="200">
-      <strong>Tools & Workflow</strong><br><br>
-      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /><br>
-      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /><br>
-      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-    </td>
-  </tr>
-</table>
+#### ⚙️ Dev Tools & Platforms  
+<p>  
+    <img src="https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />  <br>  
+    <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" />  <br>  
+    <img src="https://img.shields.io/badge/VS%20Code-0078D7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />  <br>  
+    <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" /> <br>   
+</p>  
 
 ---
 
@@ -117,28 +93,16 @@ I'm a 3rd-year B.Tech student at **Saintgits College of Engineering, Kottayam**,
 
 ## 💼 Experience
 
-### **Embedded Systems Intern — KELTRON Knowledge Centre, Trivandrum**  
-Focused on embedded systems fundamentals, microcontroller programming, and hands-on electronics development.
+### Embedded Systems Intern — KELTRON
+2- week Inters on embedded fundamentals, microcontroller programming.
 
----
 
-## 🎓 Certifications
-
-- Python for Everybody — Coursera  
-- Introduction to Machine Learning — NPTEL  
-- Vega Processor Workshop — C-DAC  
-- Arduino Hands-On Workshop  
-- Semiconductor Tech Conclave 2025 — IEEE SSCS
-
----
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Abhijith911&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijith911&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=120&section=footer"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhijith911&show_icons=true&theme=tokyonight"
+       style="width:45%; height:220px; object-fit:contain; display:inline-block; border-radius:6px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijith911&layout=compact&theme=tokyonight"
+       style="width:45%; height:220px; object-fit:contain; display:inline-block; border-radius:6px;" />
 </p>
